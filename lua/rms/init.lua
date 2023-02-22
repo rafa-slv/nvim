@@ -1,3 +1,3 @@
-require("rms.remap")
 require("rms.set")
+require("rms.remap")
 
